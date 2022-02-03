@@ -2,15 +2,13 @@
 Translation matrix, Rotation Matrix, Flipping Matrix and Duplicating 
 
 ### Table of Contents
-1 1st Tile
-2 2nd Tile
-3 3rd Tile
-4 4th Tile
-5 Repeating the sequence
 
-%------------------------------------------------------------------------%
-clc;clear;close all;
-%------------------------------------------------------------------------%
+* [1 1st Tile](#1-1st-tile)
+* [2 2nd Tile](#2-2nd-tile)
+* [3 3rd Tile](#3-3rd-tile)
+* [4 4th Tile](#4-4th-tile)
+* [5 Repeating the sequence](#5-repeating-the-sequence)
+
 
 #### 1st Tile
 h = 0.7120;
@@ -56,6 +54,7 @@ T = [... 10 h
 ![Fig 2](https://user-images.githubusercontent.com/74070082/152382869-57f872db-117a-400e-9222-59fad742e723.png)
 
 %------------------------------------------------------------------------%
+
 Published with MATLAB® R2021b
 
 
