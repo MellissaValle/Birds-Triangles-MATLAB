@@ -3,11 +3,11 @@ Translation matrix, Rotation Matrix, Flipping Matrix and Duplicating
 
 ### Table of Contents
 
-* [1 1st Tile](#1-1st-tile)
-* [2 2nd Tile](#2-2nd-tile)
-* [3 3rd Tile](#3-3rd-tile)
-* [4 4th Tile](#4-4th-tile)
-* [5 Repeating the sequence](#5-repeating-the-sequence)
+* [1st Tile](#1st-tile)
+* [2nd Tile](#2nd-tile)
+* [3rd Tile](#3rd-tile)
+* [4th Tile](#4th-tile)
+* [Repeating the sequence](#repeating-the-sequence)
 
 
 #### 1st Tile
